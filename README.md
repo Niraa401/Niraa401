@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Nirali Savaliya
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning JAVA 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Flutter Development
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking for an internship to learn more..
 - savaliyanirali41@gmail.com
 
 <!---
